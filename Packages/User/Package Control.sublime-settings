@@ -2,6 +2,10 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"auto-save",
+		"AutoSpell",
+		"Git Conflict Resolver",
+		"xpath"
 	],
 	"installed_packages":
 	[

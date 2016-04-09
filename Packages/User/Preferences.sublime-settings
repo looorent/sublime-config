@@ -8,7 +8,11 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage"
+		"auto-save",
+		"AutoSpell",
+		"Git Conflict Resolver",
+		"Vintage",
+		"xpath"
 	],
 	"spell_check": true
 }
