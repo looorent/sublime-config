@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"AutoSpell",
+		"Git Conflict Resolver",
+		"Google Spell Check",
+		"Markdown Preview",
+		"Package Control",
+		"xpath"
+	]
+}

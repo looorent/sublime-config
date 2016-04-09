@@ -1,0 +1,33 @@
+{
+	"history":
+	[
+		[
+			"/svg/g/g/text[contains(text(), 'ArchiMetric')]",
+			"C:\\Users\\lorent\\assignment\\ocmjea-assignment\\deliverable\\img\\test.xml"
+		],
+		[
+			"/svg/g/g/text",
+			"C:\\Users\\lorent\\assignment\\ocmjea-assignment\\deliverable\\img\\test.xml"
+		],
+		[
+			"//te",
+			"C:\\Users\\lorent\\assignment\\ocmjea-assignment\\deliverable\\img\\test.xml"
+		],
+		[
+			"//*text",
+			"C:\\Users\\lorent\\assignment\\ocmjea-assignment\\deliverable\\img\\test.xml"
+		],
+		[
+			"//*[contains(text(), 'ArchiMetric')]",
+			"C:\\Users\\lorent\\assignment\\ocmjea-assignment\\deliverable\\img\\test.xml"
+		],
+		[
+			"//*[text()='ArchiMetric']",
+			"C:\\Users\\lorent\\assignment\\ocmjea-assignment\\deliverable\\img\\test.xml"
+		],
+		[
+			"//*[text()='ArchiMetric [evaluation copy] ']",
+			"C:\\Users\\lorent\\assignment\\ocmjea-assignment\\deliverable\\img\\test.xml"
+		]
+	]
+}
