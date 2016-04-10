@@ -4,15 +4,13 @@
 		"Reusability",
 		"Javascript"
 	],
+	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_face": "Hack",
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"auto-save",
-		"AutoSpell",
-		"Git Conflict Resolver",
-		"Vintage",
-		"xpath"
+		"Vintage"
 	],
 	"spell_check": true
 }
